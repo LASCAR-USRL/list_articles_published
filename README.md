@@ -12,6 +12,7 @@ O. A. R. da Cruz, C. E. Pereira, A. S. da Silva, J. P. J. da Costa, P. Mendes an
 
 ## Dissertations
 
+Basso, Maik. "A framework for autonomous mission and guidance control of unmanned aerial vehicles based on computer vision techniques." (2018).
 
 ## Theses
 
