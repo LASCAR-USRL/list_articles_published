@@ -16,4 +16,6 @@ Basso, Maik. "A framework for autonomous mission and guidance control of unmanne
 
 ## Theses
 
+Basso, Maik. "A cooperative navigation system with distributed architecture for multiple unmanned aerial vehicles." (2022).
+
 
